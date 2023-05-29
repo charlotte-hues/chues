@@ -3,15 +3,15 @@
 <h1>Hello there, I'm Charlotte Hughes</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FCC916&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Designer;Studio+Helga;)
-  
+
 </div>
 
------------------------------
+---
 
-* 🌍  I'm based in Chester, England
-* 👩🏻‍🤝‍👨🏼  Co-director of Studio Helga Ltd
-* 😄  Learn more about Studio Helga [studiohelga.co.uk](https://www.studiohelga.co.uk)
-* ⚔️  Try out the Valheim calculator [valculator.io](https://valculator.io)
+- 🌍  I'm based in Chester, England
+- 👩🏻‍🤝‍👨🏼 Co-director of Studio Helga Ltd
+- 😄 Learn more about Studio Helga [studiohelga.co.uk](https://www.studiohelga.co.uk)
+- ⚔️  Try out the Valheim calculator [valculator.io](https://valculator.io)
 
 ### Skills
 
@@ -41,20 +41,11 @@
 </p>
 <br>
 
-
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <a href="http://www.github.com/charlotte-hues"><img src="https://github-readme-stats.vercel.app/api?username=charlotte-hues&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
+
 <!-- <p align="center"> -->
- 
+
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   30 hrs 21 mins  ██████████████████████▒░░   88.95 %
-JavaScript   2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-```
-
 <!--END_SECTION:waka-->
