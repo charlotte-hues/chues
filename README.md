@@ -2,7 +2,7 @@
   
 <h1>Hello there, I'm Charlotte Hughes</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Designer;Studio+Helga;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FCC916&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Designer;Studio+Helga;)
   
 </div>
 
