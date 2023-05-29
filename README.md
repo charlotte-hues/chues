@@ -6,6 +6,8 @@
   
 </div>
 
+-----------------------------
+
 * 🌍  I'm based in Chester, England
 * 👩🏻‍🤝‍👨🏼  Co-director of Studio Helga Ltd
 * 😄  Learn more about Studio Helga [studiohelga.co.uk](https://www.studiohelga.co.uk)
@@ -41,6 +43,8 @@
 
 
 <h3 align="center">📊 My GitHub Stats</h3>
+
+<a href="http://www.github.com/charlotte-hues"><img src="https://github-readme-stats.vercel.app/api?username=charlotte-hues&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
 <!-- <p align="center"> -->
  
 <!--START_SECTION:waka-->
