@@ -45,4 +45,12 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   58 mins         ████████████████████░░░░░   80.45 %
+YAML         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
+
 <!--END_SECTION:waka-->
