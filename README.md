@@ -41,7 +41,7 @@
 </p>
 <br>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">📊 My GitHub Stats this week</h3>
 
 
 <!--START_SECTION:waka-->
