@@ -40,18 +40,3 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 <br>
-
-<h3 align="center">📊 My GitHub Stats this week</h3>
-
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   8 hrs 53 mins   ███████████████████▓░░░░░   78.11 %
-JSON         1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-GraphQL      1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-```
-
-<!--END_SECTION:waka-->
